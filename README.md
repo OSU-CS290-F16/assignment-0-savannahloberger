@@ -34,7 +34,7 @@ The other tool we'll be using quite a bit for this course is Git/GitHub.  You're
 3. Add, commit, and push a new file `index.html` that contains a complete HTML-only page (no CSS or JS yet) that displays these things:
   * Your name and what you prefer to be called (if it's different).
   * Your major and year of study.
-  * Thge answer to this question: on a scale from 0 (I've never even seen HTML code) to 10 (You know Facebook? I wrote that.), how confident are you in your web development skills.
+  * The answer to this question: on a scale from 0 (I've never even seen HTML code) to 10 (You know Facebook? I wrote that.), how confident are you in your web development skills.
   * The answer to this question: what do you hope to learn from this class?
   * The answer to this question: have you signed up for Piazza?
   * A description of the most interesting fact about you or the most unique experience you've had.  Include only what you can think of and write down in two minutes, maximum.
