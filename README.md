@@ -5,7 +5,7 @@ Name: Savannah Loberger
 
 ONID ID: loberges
 
-Link to my CS 290 page: http://web.engr.oregonstate.edu/~loberges/CS290/blog
+Link to my CS 290 page: http://web.engr.oregonstate.edu/~loberges/CS290
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
